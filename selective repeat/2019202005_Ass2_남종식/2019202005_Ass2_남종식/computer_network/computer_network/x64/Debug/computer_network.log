@@ -1,0 +1,33 @@
+﻿  ass2.c
+C:\Users\PC\source\repos\computer_network\computer_network\ass2.c(98,13): warning C4013: 'tolayer3'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\PC\source\repos\computer_network\computer_network\ass2.c(99,13): warning C4013: 'starttimer'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\PC\source\repos\computer_network\computer_network\ass2.c(181,21): warning C4013: 'tolayer5'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\PC\source\repos\computer_network\computer_network\ass2.c(184,17): warning C4013: 'stoptimer'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\PC\source\repos\computer_network\computer_network\ass2.c(427,5): warning C4013: 'init'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\PC\source\repos\computer_network\computer_network\ass2.c(453,13): warning C4013: 'generate_next_arrival'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\PC\source\repos\computer_network\computer_network\ass2.c(425,10): warning C4101: 'c' :참조되지 않은 지역 변수입니다.
+C:\Users\PC\source\repos\computer_network\computer_network\ass2.c(522,15): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\computer_network\computer_network\ass2.c(548,16): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\computer_network\computer_network\ass2.c(560,19): warning C4142: 'malloc': 형식이 재정의되었지만 심각하지는 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_malloc.h(101,15): message : 'malloc' 선언을 참조하십시오.
+C:\Users\PC\source\repos\computer_network\computer_network\ass2.c(570,26): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\computer_network\computer_network\ass2.c(576,5): warning C4013: 'insertevent'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\PC\source\repos\computer_network\computer_network\ass2.c(562,9): warning C4101: 'tempint' :참조되지 않은 지역 변수입니다.
+C:\Users\PC\source\repos\computer_network\computer_network\ass2.c(561,11): warning C4101: 'ttime' :참조되지 않은 지역 변수입니다.
+C:\Users\PC\source\repos\computer_network\computer_network\ass2.c(621,9): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\PC\source\repos\computer_network\computer_network\ass2.c(660,13): warning C4033: 'stoptimer'은(는) 값을 반환해야 합니다.
+C:\Users\PC\source\repos\computer_network\computer_network\ass2.c(675,19): warning C4142: 'malloc': 형식이 재정의되었지만 심각하지는 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_malloc.h(101,15): message : 'malloc' 선언을 참조하십시오.
+C:\Users\PC\source\repos\computer_network\computer_network\ass2.c(684,13): warning C4033: 'starttimer'은(는) 값을 반환해야 합니다.
+C:\Users\PC\source\repos\computer_network\computer_network\ass2.c(690,26): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\computer_network\computer_network\ass2.c(705,19): warning C4142: 'malloc': 형식이 재정의되었지만 심각하지는 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_malloc.h(101,15): message : 'malloc' 선언을 참조하십시오.
+C:\Users\PC\source\repos\computer_network\computer_network\ass2.c(717,9): warning C4033: 'tolayer3'은(는) 값을 반환해야 합니다.
+C:\Users\PC\source\repos\computer_network\computer_network\ass2.c(536): warning C4715: 'init': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\PC\source\repos\computer_network\computer_network\ass2.c(577): warning C4716: 'generate_next_arrival': 값을 반환해야 합니다.
+C:\Users\PC\source\repos\computer_network\computer_network\ass2.c(616): warning C4716: 'insertevent': 값을 반환해야 합니다.
+C:\Users\PC\source\repos\computer_network\computer_network\ass2.c(664): warning C4716: 'stoptimer': 값을 반환해야 합니다.
+C:\Users\PC\source\repos\computer_network\computer_network\ass2.c(695): warning C4716: 'starttimer': 값을 반환해야 합니다.
+C:\Users\PC\source\repos\computer_network\computer_network\ass2.c(780): warning C4716: 'tolayer5': 값을 반환해야 합니다.
+C:\Users\PC\source\repos\computer_network\computer_network\ass2.c(766): warning C4716: 'tolayer3': 값을 반환해야 합니다.
+  computer_network.vcxproj -> C:\Users\PC\source\repos\computer_network\x64\Debug\computer_network.exe
